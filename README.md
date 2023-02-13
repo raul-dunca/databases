@@ -6,6 +6,9 @@
 - [Assigmnet 04](https://github.com/raul-dunca/databases-assignment4) - implemented a set of stored procedures to run tests and store their results.
 - [Assigment 05](https://github.com/raul-dunca/databases-assignment5) - wrote queries with clustered and unclustered indexes.
 ## Exam
-- [Exam](https://github.com/raul-dunca/databses-exam) - implemented a database for an airbnb.
+- [Exam](https://github.com/raul-dunca/databses-exam) - implemented a database and some queries for an Airbnb.
 ## Extra
+- [Bank](https://github.com/raul-dunca/databases-extra1) - implemented a database and some queries for a Bank.
+- [Trains](https://github.com/raul-dunca/databases-extra2) - implemented a database and some queries for a Train company.
+- [Cakes](https://github.com/raul-dunca/databases-extra3) - implemented a database and some queries for a Cake shop.
 
